@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Playlist">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Pool" minOccurs="1" maxOccurs="unbounded" type="Pool" />
+      </xs:sequence>
+      <xs:attribute type="FileType" name="FileType" />
+      <xs:attribute type="xs:int" name="max" />
+      <xs:attribute type="Mode" name="Mode" />
+    </xs:complexType>
+  </xs:element>
+  
+  <xs:simpleType name="FileType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="mpcpl" />
+      <xs:enumeration value="pls" />
+      <xs:enumeration value="wpl" />
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="Mode">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="SingleRandom" />
+      <xs:enumeration value="MultiRandom" />
+      <xs:enumeration value="LinearPlay" />
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:complexType name="Pool">
+    <xs:sequence>
+      <xs:element name="Directory" minOccurs="0" maxOccurs="unbounded" type="Location" />
+      <xs:element name="Video" minOccurs="0" maxOccurs="unbounded" type="Location" />
+    </xs:sequence>
+    <xs:attribute name="mode" type="Mode" />
+  </xs:complexType>
+
+  <xs:complexType name="Location">
+    <xs:attribute name="regex" type="xs:string" />
+    <xs:attribute name="location" type="xs:string" />
+  </xs:complexType>
+</xs:schema>

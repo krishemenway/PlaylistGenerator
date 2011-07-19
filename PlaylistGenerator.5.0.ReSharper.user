@@ -1,0 +1,713 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="93A5B839-60ED-4065-A3B2-5743E8DB716C/d:Formatters/f:M3UPlaylistFormatter.cs" caret="381" fromTop="17" />
+      <File id="93A5B839-60ED-4065-A3B2-5743E8DB716C/d:Formatters/f:WplPlaylistFormatter.cs" caret="591" fromTop="20" />
+      <File id="93A5B839-60ED-4065-A3B2-5743E8DB716C/f:poolinfo.xml" caret="260" fromTop="3" />
+      <File id="079E868F-016B-4FDD-9908-1F592305B4FC/f:PlaylistBuilderTests.cs" caret="739" fromTop="16" />
+      <File id="93A5B839-60ED-4065-A3B2-5743E8DB716C/d:Data/f:RefillAfterCompleteMode.cs" caret="275" fromTop="17" />
+      <File id="93A5B839-60ED-4065-A3B2-5743E8DB716C/d:Data/d:Pools/f:Video.cs" caret="0" fromTop="0" />
+      <File id="93A5B839-60ED-4065-A3B2-5743E8DB716C/f:app.config" caret="387" fromTop="9" />
+      <File id="93A5B839-60ED-4065-A3B2-5743E8DB716C/d:Data/f:BuildMethod.cs" caret="222" fromTop="13" />
+      <File id="93A5B839-60ED-4065-A3B2-5743E8DB716C/d:Data/f:Blacklist.cs" caret="557" fromTop="19" />
+      <File id="82426A0B-E273-4FC2-8EB9-DEF5302C17FA/f:MainWindow.xaml.cs" caret="583" fromTop="21" />
+      <File id="82426A0B-E273-4FC2-8EB9-DEF5302C17FA/f:MainWindow.xaml" caret="700" fromTop="7" />
+      <File id="93A5B839-60ED-4065-A3B2-5743E8DB716C/f:FileType.cs" caret="218" fromTop="13" />
+      <File id="93A5B839-60ED-4065-A3B2-5743E8DB716C/f:strings.resx" caret="2067" fromTop="26" />
+      <File id="93A5B839-60ED-4065-A3B2-5743E8DB716C/d:Data/d:Pools/f:Pool.cs" caret="233" fromTop="9" />
+      <File id="93A5B839-60ED-4065-A3B2-5743E8DB716C/f:PlayData.cs" caret="432" fromTop="15" />
+      <File id="93A5B839-60ED-4065-A3B2-5743E8DB716C/f:Program.cs" caret="795" fromTop="24" />
+      <File id="458D9D99-3463-464A-A260-7DC32DBB18F6/f:Program.cs" caret="575" fromTop="17" />
+      <File id="93A5B839-60ED-4065-A3B2-5743E8DB716C/d:Data/d:Grouping/f:VideoGrouping.cs" caret="956" fromTop="14" />
+      <File id="93A5B839-60ED-4065-A3B2-5743E8DB716C/d:Data/d:Pools/f:VideoDirectory.cs" caret="4631" fromTop="59" />
+      <File id="93A5B839-60ED-4065-A3B2-5743E8DB716C/d:Data/d:Sequence/f:SequenceItem.cs" caret="194" fromTop="7" />
+      <File id="93A5B839-60ED-4065-A3B2-5743E8DB716C/f:PlaylistBuilder.cs" caret="346" fromTop="9" />
+      <File id="93A5B839-60ED-4065-A3B2-5743E8DB716C/d:Data/f:PullDirectoryMethod.cs" caret="218" fromTop="14" />
+      <File id="93A5B839-60ED-4065-A3B2-5743E8DB716C/d:Data/f:Playlist.cs" caret="736" fromTop="18" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="93A5B839-60ED-4065-A3B2-5743E8DB716C/d:Data/d:Pools/f:VideoDirectory.cs" caret="5365" fromTop="35" />
+      <File id="93A5B839-60ED-4065-A3B2-5743E8DB716C/d:Data/d:Pools/f:VideoDirectory.cs" caret="1525" fromTop="37" />
+      <File id="82426A0B-E273-4FC2-8EB9-DEF5302C17FA/f:MainWindow.xaml" caret="487" fromTop="7" />
+      <File id="82426A0B-E273-4FC2-8EB9-DEF5302C17FA/f:MainWindow.xaml.cs" caret="560" fromTop="21" />
+      <File id="82426A0B-E273-4FC2-8EB9-DEF5302C17FA/f:MainWindow.xaml" caret="530" fromTop="7" />
+      <File id="82426A0B-E273-4FC2-8EB9-DEF5302C17FA/f:MainWindow.xaml" caret="377" fromTop="7" />
+      <File id="82426A0B-E273-4FC2-8EB9-DEF5302C17FA/f:MainWindow.xaml" caret="225" fromTop="2" />
+      <File id="82426A0B-E273-4FC2-8EB9-DEF5302C17FA/f:MainWindow.xaml" caret="864" fromTop="8" />
+      <File id="82426A0B-E273-4FC2-8EB9-DEF5302C17FA/f:MainWindow.xaml" caret="689" fromTop="10" />
+      <File id="93A5B839-60ED-4065-A3B2-5743E8DB716C/d:Data/d:Pools/f:Pool.cs" caret="2724" fromTop="29" />
+      <File id="93A5B839-60ED-4065-A3B2-5743E8DB716C/d:Data/d:Pools/f:VideoDirectory.cs" caret="5281" fromTop="41" />
+      <File id="93A5B839-60ED-4065-A3B2-5743E8DB716C/d:Data/d:Pools/f:VideoDirectory.cs" caret="5166" fromTop="36" />
+      <File id="93A5B839-60ED-4065-A3B2-5743E8DB716C/d:Data/d:Pools/f:Pool.cs" caret="3202" fromTop="42" />
+      <File id="93A5B839-60ED-4065-A3B2-5743E8DB716C/f:PlaylistBuilder.cs" caret="411" fromTop="14" />
+      <File id="93A5B839-60ED-4065-A3B2-5743E8DB716C/f:PlaylistBuilder.cs" caret="544" fromTop="16" />
+      <File id="93A5B839-60ED-4065-A3B2-5743E8DB716C/d:Data/d:Pools/f:VideoDirectory.cs" caret="3930" fromTop="16" />
+      <File id="93A5B839-60ED-4065-A3B2-5743E8DB716C/d:Data/d:Pools/f:VideoDirectory.cs" caret="4234" fromTop="33" />
+      <File id="93A5B839-60ED-4065-A3B2-5743E8DB716C/d:Data/d:Pools/f:VideoDirectory.cs" caret="4413" fromTop="39" />
+      <File id="93A5B839-60ED-4065-A3B2-5743E8DB716C/d:Data/d:Pools/f:VideoDirectory.cs" caret="5099" fromTop="32" />
+      <File id="93A5B839-60ED-4065-A3B2-5743E8DB716C/f:PlaylistBuilder.cs" caret="601" fromTop="21" />
+      <File id="93A5B839-60ED-4065-A3B2-5743E8DB716C/f:PlaylistBuilder.cs" caret="601" fromTop="23" />
+      <File id="93A5B839-60ED-4065-A3B2-5743E8DB716C/f:PlaylistBuilder.cs" caret="1364" fromTop="37" />
+      <File id="93A5B839-60ED-4065-A3B2-5743E8DB716C/f:PlaylistBuilder.cs" caret="632" fromTop="12" />
+      <File id="93A5B839-60ED-4065-A3B2-5743E8DB716C/f:PlaylistBuilder.cs" caret="104" fromTop="2" />
+      <File id="93A5B839-60ED-4065-A3B2-5743E8DB716C/f:Program.cs" caret="1057" fromTop="33" />
+      <File id="93A5B839-60ED-4065-A3B2-5743E8DB716C/f:Program.cs" caret="1791" fromTop="47" />
+      <File id="93A5B839-60ED-4065-A3B2-5743E8DB716C/f:Program.cs" caret="1895" fromTop="50" />
+      <File id="93A5B839-60ED-4065-A3B2-5743E8DB716C/f:Program.cs" caret="1055" fromTop="29" />
+      <File id="93A5B839-60ED-4065-A3B2-5743E8DB716C/f:Program.cs" caret="1550" fromTop="36" />
+      <File id="93A5B839-60ED-4065-A3B2-5743E8DB716C/f:Program.cs" caret="320" fromTop="14" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.3\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="112" />
+      <Item value="enum" priority="3" />
+      <Item value="StringBuilder`0" priority="4" />
+      <Item value="BuildMethod`0" priority="30" />
+      <Item value="return" priority="90" />
+      <Item value="new" priority="118" />
+      <Item value="string" priority="130" />
+      <Item value="int" priority="32" />
+      <Item value="stringBuilder" priority="12" />
+      <Item value="StringBuilder" priority="4" />
+      <Item value="Video`0" priority="5" />
+      <Item value="Path" priority="0" />
+      <Item value="path" priority="15" />
+      <Item value="List" priority="49" />
+      <Item value="List&lt;Video&gt;" priority="1" />
+      <Item value="FileStyleUriParser`0" priority="0" />
+      <Item value="List&lt;List&lt;List&lt;Video&gt;&gt;&gt;" priority="0" />
+      <Item value="foreach" priority="37" />
+      <Item value="var" priority="78" />
+      <Item value="in" priority="27" />
+      <Item value="directories" priority="6" />
+      <Item value="pool" priority="36" />
+      <Item value="directory" priority="19" />
+      <Item value="Directory`0" priority="15" />
+      <Item value="class" priority="8" />
+      <Item value="files" priority="9" />
+      <Item value="filesInDirectory" priority="0" />
+      <Item value="ToList`1" priority="8" />
+      <Item value="newPool" priority="0" />
+      <Item value="String`0" priority="2" />
+      <Item value="List&lt;string[]&gt;" priority="0" />
+      <Item value="locations" priority="6" />
+      <Item value="PlaylistBuilderTests`0" priority="0" />
+      <Item value="builder" priority="3" />
+      <Item value="PlaylistBuilder" priority="1" />
+      <Item value="SingleRandom" priority="3" />
+      <Item value="BuildPlaylist`0" priority="2" />
+      <Item value="method" priority="8" />
+      <Item value="Assert`0" priority="2" />
+      <Item value="curDirectory" priority="2" />
+      <Item value="if" priority="121" />
+      <Item value="file" priority="23" />
+      <Item value="EligibileFileTypes" priority="6" />
+      <Item value="dir" priority="2" />
+      <Item value="pools" priority="22" />
+      <Item value="interface" priority="1" />
+      <Item value="IPlaylistFormatter`0" priority="6" />
+      <Item value="formatter" priority="13" />
+      <Item value="switch" priority="7" />
+      <Item value="allFiles" priority="10" />
+      <Item value="List&lt;string&gt;" priority="11" />
+      <Item value="List&lt;List&lt;string&gt;&gt;" priority="2" />
+      <Item value="while" priority="7" />
+      <Item value="curVideo" priority="10" />
+      <Item value="for" priority="1" />
+      <Item value="i" priority="24" />
+      <Item value="r" priority="0" />
+      <Item value="Count`1" priority="0" />
+      <Item value="videoNumber" priority="2" />
+      <Item value="BuildMultiRandom`0" priority="0" />
+      <Item value="max" priority="1" />
+      <Item value="private" priority="27" />
+      <Item value="ArgIterator`0" priority="0" />
+      <Item value="args" priority="16" />
+      <Item value="key" priority="0" />
+      <Item value="case" priority="24" />
+      <Item value="break" priority="18" />
+      <Item value="CopyTo`0" priority="0" />
+      <Item value="AssemblyLoadEventArgs`0" priority="0" />
+      <Item value="argVars" priority="14" />
+      <Item value="else" priority="32" />
+      <Item value="Dictionary" priority="1" />
+      <Item value="LinearPlay" priority="4" />
+      <Item value="default" priority="3" />
+      <Item value="maxVideos" priority="9" />
+      <Item value="FileType`0" priority="12" />
+      <Item value="Exception" priority="8" />
+      <Item value="MediaPlayerClassicPlaylistFormatter`0" priority="2" />
+      <Item value="Console`0" priority="8" />
+      <Item value="throw" priority="9" />
+      <Item value="try" priority="4" />
+      <Item value="catch" priority="5" />
+      <Item value="Exception`0" priority="5" />
+      <Item value="static" priority="10" />
+      <Item value="PlaylistBuilder`0" priority="8" />
+      <Item value="fileType" priority="1" />
+      <Item value="VLanPlaylist" priority="0" />
+      <Item value="VideoLanPlaylistFormatter`0" priority="0" />
+      <Item value="BuildLinear`0" priority="0" />
+      <Item value="randVideoNum" priority="0" />
+      <Item value="null" priority="25" />
+      <Item value="RemoveAfterAdd" priority="0" />
+      <Item value="bool" priority="15" />
+      <Item value="allEmpty" priority="11" />
+      <Item value="false" priority="7" />
+      <Item value="true" priority="7" />
+      <Item value="IEnumerable`0" priority="0" />
+      <Item value="IEnumerator`0" priority="0" />
+      <Item value="continue" priority="2" />
+      <Item value="e" priority="0" />
+      <Item value="using" priority="0" />
+      <Item value="System" priority="0" />
+      <Item value="Xml" priority="0" />
+      <Item value="XmlDocument`0" priority="1" />
+      <Item value="XmlDocument" priority="1" />
+      <Item value="XmlReader`0" priority="4" />
+      <Item value="reader" priority="0" />
+      <Item value="XmlTextReader`0" priority="0" />
+      <Item value="XmlTextReader" priority="0" />
+      <Item value="xmlFileLocation" priority="1" />
+      <Item value="xmlReader" priority="0" />
+      <Item value="poolXMLDoc" priority="4" />
+      <Item value="CurrentCultureIgnoreCase" priority="3" />
+      <Item value="XmlNode`0" priority="0" />
+      <Item value="curPool" priority="7" />
+      <Item value="PlaylistGeneratorException`0" priority="1" />
+      <Item value="Message" priority="0" />
+      <Item value="message" priority="1" />
+      <Item value="this" priority="10" />
+      <Item value="Error" priority="0" />
+      <Item value="strings`0" priority="7" />
+      <Item value="linear" priority="0" />
+      <Item value="Pool`0" priority="14" />
+      <Item value="Directory" priority="1" />
+      <Item value="IO" priority="0" />
+      <Item value="File`0" priority="13" />
+      <Item value="File" priority="0" />
+      <Item value="IEnumerable" priority="5" />
+      <Item value="base" priority="0" />
+      <Item value="removeFileTypes" priority="5" />
+      <Item value="eligibileFileTypes" priority="4" />
+      <Item value="type" priority="1" />
+      <Item value="Data" priority="6" />
+      <Item value="VideoDirectory" priority="4" />
+      <Item value="RemoveFileTypes" priority="0" />
+      <Item value="List&lt;VideoDirectory&gt;" priority="3" />
+      <Item value="get" priority="1" />
+      <Item value="_method" priority="2" />
+      <Item value="Pool" priority="9" />
+      <Item value="set" priority="0" />
+      <Item value="VideoDirectory`0" priority="5" />
+      <Item value="test" priority="2" />
+      <Item value="playlist" priority="21" />
+      <Item value="Playlist" priority="5" />
+      <Item value="_Method" priority="9" />
+      <Item value="value" priority="6" />
+      <Item value="TestMethod" priority="0" />
+      <Item value="void" priority="7" />
+      <Item value="None" priority="1" />
+      <Item value="VideoDirectories" priority="13" />
+      <Item value="Playlist`0" priority="6" />
+      <Item value="element" priority="6" />
+      <Item value="curElement" priority="4" />
+      <Item value="Pools" priority="7" />
+      <Item value="List&lt;Pool&gt;" priority="1" />
+      <Item value="Files" priority="25" />
+      <Item value="_Pool" priority="4" />
+      <Item value="regex" priority="5" />
+      <Item value="Match" priority="0" />
+      <Item value="Regex`0" priority="0" />
+      <Item value="xml" priority="2" />
+      <Item value="xmlAttribute" priority="1" />
+      <Item value="PlaylistGeneratorException" priority="1" />
+      <Item value="randPool" priority="0" />
+      <Item value="IEnumerator" priority="0" />
+      <Item value="_CurVideo" priority="7" />
+      <Item value="Random`0" priority="3" />
+      <Item value="random" priority="1" />
+      <Item value="Random" priority="2" />
+      <Item value="Boolean`0" priority="0" />
+      <Item value="Method" priority="10" />
+      <Item value="n" priority="3" />
+      <Item value="GetNextVideo`0" priority="6" />
+      <Item value="GetRandomVideo`0" priority="7" />
+      <Item value="GetMethodFromAttribute`0" priority="1" />
+      <Item value="DateTime`0" priority="1" />
+      <Item value="PoolMethod`0" priority="4" />
+      <Item value="_PoolMethod" priority="2" />
+      <Item value="CurrentDirectory" priority="3" />
+      <Item value="rand" priority="1" />
+      <Item value="seed" priority="3" />
+      <Item value="_Counter" priority="0" />
+      <Item value="videoDirectory" priority="0" />
+      <Item value="x" priority="8" />
+      <Item value="MaxVideos" priority="1" />
+      <Item value="PlayData`0" priority="3" />
+      <Item value="protected" priority="2" />
+      <Item value="PlayDataFileName" priority="5" />
+      <Item value="Dictionary&lt;string,int&gt;" priority="0" />
+      <Item value="_PlayData" priority="6" />
+      <Item value="count" priority="0" />
+      <Item value="LoadPlayData`0" priority="0" />
+      <Item value="override" priority="0" />
+      <Item value="StreamReader`0" priority="0" />
+      <Item value="StreamReader" priority="0" />
+      <Item value="PlayDataFile" priority="3" />
+      <Item value="Stream`0" priority="0" />
+      <Item value="OpenOrCreate" priority="0" />
+      <Item value="playDataReader" priority="5" />
+      <Item value="line" priority="1" />
+      <Item value="lineArray" priority="1" />
+      <Item value="curfile" priority="0" />
+      <Item value="curcount" priority="0" />
+      <Item value="StreamWriter`0" priority="0" />
+      <Item value="StreamWriter" priority="0" />
+      <Item value="_playData" priority="1" />
+      <Item value="playDataWriter" priority="2" />
+      <Item value="video" priority="32" />
+      <Item value="PlayData" priority="0" />
+      <Item value="const" priority="1" />
+      <Item value="FooterData" priority="0" />
+      <Item value="HeaderData" priority="0" />
+      <Item value="Formatter" priority="2" />
+      <Item value="MplPlaylistFormatter`0" priority="0" />
+      <Item value="Guid`0" priority="0" />
+      <Item value="playlistBuilder" priority="2" />
+      <Item value="currentVideoCount" priority="0" />
+      <Item value="WplPlaylistFormatter`0" priority="0" />
+      <Item value="RefillListAfterComplete" priority="0" />
+      <Item value="BackupFiles" priority="4" />
+      <Item value="backupFiles" priority="1" />
+      <Item value="FileInfo`0" priority="2" />
+      <Item value="FileInfo" priority="0" />
+      <Item value="info" priority="0" />
+      <Item value="LoadFiles`0" priority="1" />
+      <Item value="newDirectory" priority="2" />
+      <Item value="RefillDirectoriesAfterComplete" priority="1" />
+      <Item value="_RefillAfterComplete" priority="1" />
+      <Item value="RefillAfterComplete" priority="0" />
+      <Item value="Serializable" priority="8" />
+      <Item value="XmlAttribute" priority="7" />
+      <Item value="typeof" priority="9" />
+      <Item value="RefillAfterCompleteMode`0" priority="9" />
+      <Item value="_RefillListAfterComplete" priority="0" />
+      <Item value="_RefillDirectoriesAfterComplete" priority="2" />
+      <Item value="_Playlist" priority="0" />
+      <Item value="NoRefillAfterComplete" priority="0" />
+      <Item value="RefillDirectory" priority="0" />
+      <Item value="XmlType" priority="1" />
+      <Item value="XmlEnum" priority="11" />
+      <Item value="XmlElement" priority="6" />
+      <Item value="Convert`0" priority="0" />
+      <Item value="Blacklist`0" priority="8" />
+      <Item value="Blacklist" priority="2" />
+      <Item value="BlacklistFile" priority="0" />
+      <Item value="Location" priority="0" />
+      <Item value="XmlSerializer`0" priority="3" />
+      <Item value="xmlSerializer" priority="1" />
+      <Item value="XmlSerializer" priority="2" />
+      <Item value="FileStream`0" priority="0" />
+      <Item value="Open" priority="1" />
+      <Item value="blacklistPath" priority="0" />
+      <Item value="GlobalBlacklist" priority="0" />
+      <Item value="byte" priority="0" />
+      <Item value="SetFormatter`0" priority="0" />
+      <Item value="M3UFormatter`0" priority="0" />
+      <Item value="_BlackListPath" priority="2" />
+      <Item value="BlackListedFiles" priority="2" />
+      <Item value="DefaultEligibileFileTypes" priority="1" />
+      <Item value="eligibleFileTypes" priority="12" />
+      <Item value="GetBlacklist`0" priority="0" />
+      <Item value="GetEligibleFileTypes`0" priority="1" />
+      <Item value="playlistString" priority="2" />
+      <Item value="appReader" priority="0" />
+      <Item value="KeyNotFoundException`0" priority="1" />
+      <Item value="InvalidCastException`0" priority="0" />
+      <Item value="InvalidOperationException`0" priority="1" />
+      <Item value="MatchRegex" priority="2" />
+      <Item value="finally" priority="0" />
+      <Item value="GetApplicationVariable`0" priority="2" />
+      <Item value="blacklistpath" priority="1" />
+      <Item value="SetupVideoDirectory`0" priority="1" />
+      <Item value="directoriesToClean" priority="2" />
+      <Item value="Videos" priority="2" />
+      <Item value="blacklist" priority="0" />
+      <Item value="SequencePoolReference`0" priority="1" />
+      <Item value="Name" priority="2" />
+      <Item value="name" priority="1" />
+      <Item value="serializer" priority="4" />
+      <Item value="FileStream" priority="0" />
+      <Item value="xmlConfigurationFile" priority="0" />
+      <Item value="stream" priority="2" />
+      <Item value="sequenceItem" priority="1" />
+      <Item value="PoolList`0" priority="0" />
+      <Item value="UriHostNameType`0" priority="0" />
+      <Item value="matchingPools" priority="0" />
+      <Item value="poolName" priority="0" />
+      <Item value="SequenceItem" priority="1" />
+      <Item value="List&lt;SequenceItem&gt;" priority="0" />
+      <Item value="Create" priority="0" />
+      <Item value="SequenceItem`0" priority="0" />
+      <Item value="vd" priority="1" />
+      <Item value="Grouping`0" priority="2" />
+      <Item value="Group" priority="0" />
+      <Item value="IGrouping" priority="0" />
+      <Item value="Group`0" priority="0" />
+      <Item value="groupingPath" priority="1" />
+      <Item value="GetGroupings`0" priority="0" />
+      <Item value="grouping" priority="0" />
+      <Item value="Groupings" priority="1" />
+      <Item value="VideoGrouping" priority="0" />
+      <Item value="OnDeck" priority="14" />
+      <Item value="next" priority="0" />
+      <Item value="GetNextGroupVideo`0" priority="1" />
+      <Item value="groupVideos" priority="2" />
+      <Item value="group" priority="18" />
+      <Item value="LoadGroups`0" priority="0" />
+      <Item value="nextVideoLocation" priority="5" />
+      <Item value="nextVideo" priority="1" />
+      <Item value="IFormatProvider`0" priority="0" />
+      <Item value="videoLocation" priority="0" />
+      <Item value="LoadNextGroupVideo`0" priority="3" />
+      <Item value="currentVideo" priority="4" />
+      <Item value="RandomLoadNextGroupVideo`0" priority="0" />
+      <Item value="GetAndRemoveRandomVideo`0" priority="0" />
+      <Item value="revisedVideo" priority="1" />
+      <Item value="RemoveVideo`0" priority="2" />
+      <Item value="VideoGrouping`0" priority="0" />
+      <Item value="RefillIfNeccesary`0" priority="0" />
+      <Item value="XmlEnumAttribute`0" priority="0" />
+      <Item value="RandomLinear" priority="4" />
+      <Item value="HasOnDeckVideo`0" priority="1" />
+      <Item value="GetRandomLinearVideo`0" priority="0" />
+      <Item value="_IsFirstVideo" priority="1" />
+      <Item value="Seed" priority="1" />
+      <Item value="GetVideoDirectory`0" priority="0" />
+      <Item value="DEFAULT_SEED" priority="1" />
+      <Item value="GetVideo`0" priority="0" />
+      <Item value="preview" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="22" />
+      <Item value="Format`0" priority="7" />
+      <Item value="Equals`0" priority="3" />
+      <Item value="IsNullOrEmpty`0" priority="14" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Directory">
+      <Item value="GetFiles`0" priority="6" />
+      <Item value="Exists`0" priority="2" />
+      <Item value="GetDirectories`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="32" />
+      <Item value="Count" priority="43" />
+      <Item value="Contains`0" priority="12" />
+      <Item value="Where`1" priority="4" />
+      <Item value="AddRange`0" priority="1" />
+      <Item value="RemoveAt`0" priority="3" />
+      <Item value="Name" priority="0" />
+      <Item value="Concat`1" priority="0" />
+      <Item value="CopyTo`0" priority="2" />
+      <Item value="Remove`0" priority="4" />
+      <Item value="Select`2" priority="2" />
+      <Item value="Union`1" priority="1" />
+      <Item value="Sum`1" priority="2" />
+      <Item value="ForEach`0" priority="0" />
+      <Item value="RemoveRange`0" priority="0" />
+      <Item value="Clear`0" priority="0" />
+      <Item value="Find`0" priority="2" />
+      <Item value="IndexOf`0" priority="3" />
+      <Item value="GetEnumerator`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PlaylistGenerator.PlaylistBuilder">
+      <Item value="BuildPlaylist`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.VisualStudio.TestTools.UnitTesting.Assert">
+      <Item value="Equals`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="EndsWith`0" priority="0" />
+      <Item value="Substring`0" priority="6" />
+      <Item value="LastIndexOf`0" priority="10" />
+      <Item value="Split`0" priority="2" />
+      <Item value="Last`1" priority="0" />
+      <Item value="Equals`0" priority="8" />
+      <Item value="StartsWith`0" priority="0" />
+      <Item value="Replace`0" priority="0" />
+      <Item value="Contains`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PlaylistGenerator.IPlaylistFormatter">
+      <Item value="GetHeaderLine`0" priority="2" />
+      <Item value="GetFooterLine`0" priority="3" />
+      <Item value="GetLineForVideo`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="AppendLine`0" priority="9" />
+      <Item value="ToString`0" priority="3" />
+      <Item value="Append`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Random">
+      <Item value="Next`0" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="Keys" priority="0" />
+      <Item value="ContainsKey`0" priority="5" />
+      <Item value="Add`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.ICollection`1">
+      <Item value="Contains`0" priority="0" />
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@PlaylistGenerator.BuildMethod">
+      <Item value="MultiRandom" priority="1" />
+      <Item value="SingleRandom" priority="3" />
+      <Item value="LinearPlay" priority="1" />
+      <Item value="None" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToDouble`0" priority="0" />
+      <Item value="ToInt32`0" priority="1" />
+      <Item value="ToBoolean`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@PlaylistGenerator.FileType">
+      <Item value="MediaPlayerClassicPlaylist" priority="2" />
+      <Item value="VLanPlaylist" priority="0" />
+      <Item value="MplPlaylist" priority="0" />
+      <Item value="M3UPlaylist" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="6" />
+      <Item value="Write`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Xml.XmlReader">
+      <Item value="Create`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlDocument">
+      <Item value="Load`0" priority="0" />
+      <Item value="DocumentElement" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlElement">
+      <Item value="Name" priority="0" />
+      <Item value="Attributes" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlNode">
+      <Item value="Name" priority="1" />
+      <Item value="Value" priority="0" />
+      <Item value="Attributes" priority="10" />
+      <Item value="GetHashCode`0" priority="0" />
+      <Item value="ChildNodes" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlAttribute">
+      <Item value="Value" priority="8" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PlaylistGenerator.PlaylistGeneratorException">
+      <Item value="Error" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@PlaylistGenerator.strings">
+      <Item value="NoPoolDataError" priority="0" />
+      <Item value="NoFileTypeSpecifiedError" priority="0" />
+      <Item value="XMLLocationAttribute" priority="2" />
+      <Item value="XMLModeAttribute" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@PlaylistGenerator.PlaylistBuilder">
+      <Item value="EligibileFileTypes" priority="1" />
+      <Item value="DefaultEligibileFileTypes" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PlaylistGenerator.Pool">
+      <Item value="RemoveFileTypes" priority="0" />
+      <Item value="Method" priority="4" />
+      <Item value="VideoDirectories" priority="8" />
+      <Item value="GetVideoDirectory`0" priority="0" />
+      <Item value="RemainingVideoCount" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Count`1" priority="7" />
+      <Item value="ToList`1" priority="1" />
+      <Item value="Where`1" priority="0" />
+      <Item value="First`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PlaylistGenerator.VideoDirectory">
+      <Item value="Method" priority="4" />
+      <Item value="Files" priority="5" />
+      <Item value="GetNextVideo`0" priority="0" />
+      <Item value="GetRandomVideo`0" priority="0" />
+      <Item value="_Pool" priority="0" />
+      <Item value="RemainingVideoCount" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PlaylistGenerator.Playlist">
+      <Item value="Method" priority="2" />
+      <Item value="Pools" priority="2" />
+      <Item value="MaxVideos" priority="1" />
+      <Item value="GetRemainingVideoCount" priority="0" />
+      <Item value="Formatter" priority="0" />
+      <Item value="Title" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="Exists`0" priority="3" />
+      <Item value="Create`0" priority="1" />
+      <Item value="Open`0" priority="0" />
+      <Item value="OpenWrite`0" priority="0" />
+      <Item value="OpenRead`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Text.RegularExpressions.Regex">
+      <Item value="IsMatch`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="Millisecond" priority="2" />
+      <Item value="Day" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@PlaylistGenerator.PoolMethod">
+      <Item value="Linear" priority="2" />
+      <Item value="Random" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="MaxValue" priority="1" />
+      <Item value="MinValue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamReader">
+      <Item value="ReadLine`0" priority="2" />
+      <Item value="EndOfStream" priority="1" />
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamWriter">
+      <Item value="WriteLine`0" priority="0" />
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.KeyValuePair`2">
+      <Item value="Key" priority="1" />
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PlaylistGenerator.PlayData">
+      <Item value="AddCountForVideo`0" priority="0" />
+      <Item value="SavePlayData`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Security.Cryptography.MD5CryptoServiceProvider">
+      <Item value="ComputeHash`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Guid">
+      <Item value="NewGuid`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PlaylistGenerator.Formatters.IPlaylistFormatter">
+      <Item value="GetHeaderLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PlaylistGenerator.Data.VideoDirectory">
+      <Item value="RefillListAfterComplete" priority="4" />
+      <Item value="Files" priority="0" />
+      <Item value="RemainingVideoCount" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PlaylistGenerator.Data.Pool">
+      <Item value="RefillDirectoriesAfterComplete" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@PlaylistGenerator.RefillAfterCompleteMode">
+      <Item value="None" priority="1" />
+      <Item value="RefillDirectory" priority="0" />
+      <Item value="NoRefillAfterComplete" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.Serialization.XmlSerializer">
+      <Item value="Deserialize`0" priority="1" />
+      <Item value="Serialize`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@PlaylistGenerator.Data.Blacklist">
+      <Item value="LoadBlacklist`0" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PlaylistGenerator.Data.Blacklist">
+      <Item value="Select`2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PlaylistGenerator.Data.BlacklistFile">
+      <Item value="Location" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PlaylistGenerator.FileType">
+      <Item value="M3UPlaylist" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PlaylistGenerator.Data.Video">
+      <Item value="Pool" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.FileStream">
+      <Item value="Close`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@PlaylistGenerator.Data.Playlist">
+      <Item value="CreateInstance`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PlaylistGenerator.Data.Playlist">
+      <Item value="Sequence" priority="2" />
+      <Item value="Pools" priority="1" />
+      <Item value="GetPool`0" priority="0" />
+      <Item value="Groupings" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PlaylistGenerator.Data.Sequence.SequencePoolReference">
+      <Item value="Name" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PlaylistGenerator.Data.Pools.Pool">
+      <Item value="Equals`0" priority="0" />
+      <Item value="Name" priority="2" />
+      <Item value="SetupPool`0" priority="1" />
+      <Item value="VideoDirectories" priority="2" />
+      <Item value="Videos" priority="0" />
+      <Item value="Playlist" priority="4" />
+      <Item value="GetVideoDirectory`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@PlaylistGenerator.Data.RefillAfterCompleteMode">
+      <Item value="None" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PlaylistGenerator.Data.Pools.VideoDirectory">
+      <Item value="SetupVideoDirectory`0" priority="0" />
+      <Item value="GetVideo`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PlaylistGenerator.Data.Grouping.Grouping">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@PlaylistGenerator.Data.Grouping.VideoGrouping">
+      <Item value="LoadGroups`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PlaylistGenerator.Data.Grouping.VideoGrouping">
+      <Item value="Contains`0" priority="0" />
+      <Item value="Find`0" priority="0" />
+      <Item value="Where`1" priority="0" />
+      <Item value="FindGroupWithFile`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PlaylistGenerator.Data.Grouping.Group">
+      <Item value="Files" priority="16" />
+      <Item value="Name" priority="0" />
+      <Item value="Count`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@PlaylistGenerator.Data.BuildMethod">
+      <Item value="RandomLinear" priority="2" />
+      <Item value="LinearPlay" priority="2" />
+      <Item value="MultiRandom" priority="0" />
+      <Item value="SingleRandom" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ListBox">
+      <Item value="Items" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ItemCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

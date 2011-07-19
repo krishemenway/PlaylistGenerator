@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Playlist xsi:schemaLocation="D:\Programs\C#\PlaylistGenerator\PlaylistGenerator\Pools.xsd" xmlns:xsi="" FileType="wpl" mode="SingleRandom" max="250">
+	<Pool>
+		<Directory location="F:\TV Shows\South Park" />
+	</Pool>
+	<Pool>
+		<Directory location="F:\TV Shows\Home Movies" />
+	</Pool>
+	<Pool>
+		<Directory location="F:\TV Shows\Family Guy" />
+	</Pool>
+	<Pool>
+		<Directory location="F:\TV Shows\Futurama" />
+	</Pool>
+	<Pool>
+		<Directory location="F:\TV Shows\Comedy Central Presents" />
+		<Directory location="F:\TV Shows\Icons" />
+	</Pool>
+	<Pool>
+		<Directory location="F:\TV Shows\Flight of the Conchords" />
+		<Directory location="F:\TV Shows\Firefly" />
+	</Pool>
+	<Pool>
+		<Directory location="F:\TV Shows\Dilbert" />
+		<Directory location="F:\TV Shows\Better Off Ted" />
+		<Directory location="F:\TV Shows\Community" />
+		<Directory location="F:\TV Shows\It's Always Sunny In Philadelphia" />
+		<Directory location="F:\TV Shows\Arrested Development" />
+	</Pool>
+	<Pool>
+		<Directory location="F:\Movies" />
+	</Pool>
+</Playlist>
