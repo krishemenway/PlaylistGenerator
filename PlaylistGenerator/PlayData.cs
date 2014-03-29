@@ -19,7 +19,7 @@ namespace PlaylistGenerator
 
 		private void LoadPlayData()
 		{
-			StreamReader playDataReader = new StreamReader(PlayDataFile);
+			var playDataReader = new StreamReader(PlayDataFile);
 
 			while(!playDataReader.EndOfStream)
 			{
@@ -41,7 +41,7 @@ namespace PlaylistGenerator
 		public void SavePlayData()
 		{
 			PlayDataFile = File.Create(PlayDataFileName);
-			StreamWriter playDataWriter = new StreamWriter(PlayDataFile);
+			var playDataWriter = new StreamWriter(PlayDataFile);
 
 			foreach(KeyValuePair<string, int> video in _playData)
 			{

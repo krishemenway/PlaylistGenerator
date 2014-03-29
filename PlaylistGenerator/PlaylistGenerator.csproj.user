@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
-    <StartArguments>-max 200 -out wpl -name "TestPlaylist" -xml "F:\TV Shows\PoolInfo.xml"</StartArguments>
+    <StartArguments>--max 200 --output-path "F:\TV Shows\tv.wpl" --playlist-format "wpl" --name "TestPlaylist" --xml "F:\TV Shows\tv.config"</StartArguments>
   </PropertyGroup>
 </Project>
